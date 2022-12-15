@@ -2,6 +2,7 @@
 
 [업데이트 내역 전체 보기](https://github.com/dreamyoungs/onul-works-release-note/releases)
 
+---
 ### `v1.2.0`
 업데이트 : 2022-12-15
 
@@ -10,8 +11,7 @@
 
 [상세 보기](https://github.com/dreamyoungs/onul-works-release-note/releases/tag/v1.2.0)
 
-
-
+---
 ### `v1.0.0`
 업데이트 : 2022-09-07
 
