@@ -8,7 +8,9 @@
 - 연동관리
 - 회사정보관리
 
-[상세 보기](https://github.com/dreamyoungs/onul-works-release-note-test-repository/releases/tag/v1.2.0)
+[상세 보기](https://github.com/dreamyoungs/onul-works-release-note/releases/tag/v1.2.0)
+
+
 
 ### `v1.0.0`
 업데이트 : 2022-09-07
